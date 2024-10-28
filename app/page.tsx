@@ -33,7 +33,7 @@ export default function Home() {
               </Button>
             </a>
             <div className="flex ml-2">
-              <a href="https://t.me/Rvlnddddd" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/Rvlnd" target="_blank" rel="noopener noreferrer">
                 <Button isIconOnly color="secondary" variant="flat" aria-label="Telegram">
                   <FaTelegramPlane />
                 </Button>
