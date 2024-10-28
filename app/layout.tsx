@@ -43,12 +43,9 @@ export default function RootLayout({
       >
         <Providers themeProps={{ attribute: "class", defaultTheme: "white" }}>
           <div className="relative flex flex-col h-screen">
-            {/* Grid Background */}
             <div className="absolute inset-0 h-full w-full bg-white bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
-
             <Navbar />
 
-            {/* Main Content */}
             <main className="container mx-auto max-w-7xl pt-16 px-6 flex-grow relative z-10">
               {children}
             </main>
@@ -57,8 +54,8 @@ export default function RootLayout({
               <Link
                 isExternal
                 className="flex items-center gap-1 text-current"
-                href="https://nextui-docs-v2.vercel.app?utm_source=next-app-template"
-                title="nextui.org homepage"
+                href="/"
+                title="-"
               >
                 <span className="text-default-600">Built With ♥️</span>
                 <p className="text-primary">
