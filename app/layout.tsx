@@ -59,7 +59,7 @@ export default function RootLayout({
               >
                 <span className="text-default-600">Built With ♥️</span>
                 <p className="text-primary">
-                  By RvLnd <span className="text-pink-500/70">AKA</span> Avel
+                  
                 </p>
               </Link>
             </footer>
