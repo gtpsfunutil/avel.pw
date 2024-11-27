@@ -39,7 +39,7 @@ export default function Home() {
         </div>
         <img 
           alt="Fery" 
-          className="hidden md:block w-full h-auto" 
+          className="hidden md:block rounded-full w-full h-auto" 
           src="0209bec52bddc1e658840286820d6bdc.jpg" 
         />
       </div>
