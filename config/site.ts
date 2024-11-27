@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Avel AKA RvLnd Main Website",
-  description: "Hey! Welcome to my Website :) Im Avel or known as RvLnd you can call me Avel or RvLnd! if u call me RvLnd you can call me Rv",
+  name: "Fery AKA Mikhael",
+  description: "Hey! Welcome to my Website :) ",
   navItems: [
     {
       label: "Home",
@@ -16,7 +16,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/Rvlndd",
-    sponsor: "https://saweria.co/RvlndMyHeart",
+    github: "-",
+    sponsor: "-",
   },
 };
